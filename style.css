@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-image: url("Background.jpg");
+    background-size: cover;
+    font-family: 'Twinkle Star', cursive;
+}
+
+.loginDiv {
+    text-align: center;
+    font-family: 'Twinkle Star', cursive;
+    position: relative;
+    top: 100px;
+    left: 450px;
+}
+
+#btnLogin {
+    background-color: deeppink;
+    width: 30%;
+}
